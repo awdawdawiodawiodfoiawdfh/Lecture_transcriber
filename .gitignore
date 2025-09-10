@@ -1,7 +1,7 @@
 # Временные файлы
 *.wav
 *.tmp
-
+.venv
 # Кэш Python
 __pycache__/
 *.py[cod]
