@@ -12,7 +12,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-2. Установите зависимости:
+2. Установите зависимости:\
+Внимание, модель при запуске в первый раз скачивается только со включенным VPN
 ```bash
 pip install -r requirements.txt
 ```
