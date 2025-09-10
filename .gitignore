@@ -1,0 +1,34 @@
+# Временные файлы
+*.wav
+*.tmp
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Результаты работы
+output/*.txt
+
+# Виртуальное окружение
+.venv/
+
+# Модели Whisper (загружаются автоматически)
+~/.cache/whisper/
+whisper/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+data/
+output/
